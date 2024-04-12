@@ -7,7 +7,7 @@ struct RecordType
 	int		id;
 	char	name;
 	int		order; 
-	struct RecordType* next; 
+	
 };
 
 
